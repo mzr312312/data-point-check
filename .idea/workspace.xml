@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0475bf0e-d50c-496e-9f27-a80c740ad7cf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/采集点审核.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/对钩.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/读取图片，生成图标ico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_字典和设备名称校验/字典和设备名称校验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_字典和设备名称校验/对钩.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_字典和设备名称校验/采集表校验字典.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_批量修改表头/列名字典.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_批量修改表头/批量修改表头.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +40,17 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.字典和设备名称校验-可用版本备份.executor": "Run",
     "Python.字典和设备名称校验.executor": "Run",
+    "Python.批量修改表头.executor": "Run",
     "Python.读取图片，生成图标ico.executor": "Run",
     "Python.采集点表校验工具.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/采集点审核/01_字典和设备名称校验"
+    "last_opened_file_path": "E:/采集点审核/02_批量修改表头"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\采集点审核\02_批量修改表头" />
       <recent name="E:\采集点审核\01_字典和设备名称校验" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
