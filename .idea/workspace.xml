@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0475bf0e-d50c-496e-9f27-a80c740ad7cf" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/合并.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/合并.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/对钩.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/combine_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/output/合并表格_20250707_171154.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/合并.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/采集点审核.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/采集点审核.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.字典和设备名称校验-可用版本备份.executor&quot;: &quot;Run&quot;,
-    &quot;Python.字典和设备名称校验.executor&quot;: &quot;Run&quot;,
-    &quot;Python.批量修改表头.executor&quot;: &quot;Run&quot;,
-    &quot;Python.读取图片，生成图标ico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.采集点表校验工具.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/JA_Scripts/data_value_check&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.combine_table.executor": "Run",
+    "Python.字典和设备名称校验-可用版本备份.executor": "Run",
+    "Python.字典和设备名称校验.executor": "Run",
+    "Python.批量修改表头.executor": "Run",
+    "Python.读取图片，生成图标ico.executor": "Run",
+    "Python.采集点表校验工具.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/JA/Data-Analysis",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JA\data-point-check\03_合并选中的表格" />
       <recent name="E:\采集点审核\02_批量修改表头" />
       <recent name="E:\采集点审核\01_字典和设备名称校验" />
     </key>
