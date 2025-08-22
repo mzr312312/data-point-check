@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0475bf0e-d50c-496e-9f27-a80c740ad7cf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/合并.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/合并.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_批量生成图标ICO/对钩.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/combine_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/output/合并表格_20250707_171154.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/合并.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/output/合并表格_20250814_172048.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_合并选中的表格/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/临时/测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/采集点审核.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/采集点审核.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/采集点审核.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-point-check.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_合并选中的表格/output/合并表格_20250707_171154.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,32 +28,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mzr312312&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mzr312312/data-point-check.git&quot;,
+    &quot;accountId&quot;: &quot;96408c99-4ee3-4c83-9ce8-91d5fb80a1bf&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2y75ioOSeHzK2WtkM16XdsetsYo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.combine_table.executor": "Run",
-    "Python.字典和设备名称校验-可用版本备份.executor": "Run",
-    "Python.字典和设备名称校验.executor": "Run",
-    "Python.批量修改表头.executor": "Run",
-    "Python.读取图片，生成图标ico.executor": "Run",
-    "Python.采集点表校验工具.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/JA/Data-Analysis",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.combine_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典和设备名称校验-可用版本备份.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典和设备名称校验.executor&quot;: &quot;Run&quot;,
+    &quot;Python.批量修改表头.executor&quot;: &quot;Run&quot;,
+    &quot;Python.测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python.移动位置.executor&quot;: &quot;Run&quot;,
+    &quot;Python.读取图片，生成图标ico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.采集点表校验工具.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JA/data-point-check&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JA\data-point-check\03_合并选中的表格" />
@@ -71,7 +91,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
       </set>
     </attachedChunks>
   </component>
@@ -83,10 +104,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749172901246</updated>
+      <workItem from="1754620165373" duration="383000" />
+      <workItem from="1754634762182" duration="26000" />
+      <workItem from="1754876160446" duration="1258000" />
+      <workItem from="1755156317881" duration="8693000" />
+      <workItem from="1755570183702" duration="626000" />
+      <workItem from="1755593034025" duration="95000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_point_check$.coverage" NAME="测试 覆盖结果" MODIFIED="1755223293069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/临时" />
+    <SUITE FILE_PATH="coverage/data_point_check$combine_table.coverage" NAME="combine_table 覆盖结果" MODIFIED="1755163233086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_合并选中的表格" />
   </component>
 </project>
